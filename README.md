@@ -1,4 +1,5 @@
-# DSC-430-Python
+### DSC-430-Python
+### Python Programming 
 
 ##### This is a repository about my progressing in python programing during DSC 430 course.
 
